@@ -2,7 +2,7 @@
 #### Software Developer and Machine Learning Enthusiast
 ![github](header.jpg)
 
-I am a software engineer working at HSBC. I have a keen interest in machine learning and data science. I have worked on full-stack development with machine learning using Flask, Django, and AWS. I also do Logo Designing and Motion Graphics. I love creating content both technical and non-technical, so I have a Technical YouTube channel - [HackerShrine](https://www.youtube.com/channel/UC0ZCXAvGOg5fDyw0Xu-_PCw) and an Instagram Page- [Designflow](https://www.instagram.com/_designflow_/) for my design work. While I like to create videos of my work, I also love to write articles on different topics on [Medium](https://aniket-wattamwar.medium.com/). I am writer on different Medium publications like Towards Data Science, The Startup, Analytics Vidhya.
+I am a software engineer working at HSBC. I have a keen interest in machine learning and data science. I have worked on full-stack development with machine learning using Flask, Django, and AWS. I also do Logo Designing and Motion Graphics. I love creating content both technical and non-technical, so I have a Technical YouTube channel - [HackerShrine](https://www.youtube.com/channel/UC0ZCXAvGOg5fDyw0Xu-_PCw) and an Instagram Page- [Designflow](https://www.instagram.com/_designflow_/) for my design work. While I like to create videos of my work, I also love to write articles on different topics on [Medium](https://aniket-wattamwar.medium.com/). I am a writer on different Medium publications like Towards Data Science, The Startup, Analytics Vidhya.
 
 - 🌱 I’m currently learning and exploring the field of Interpretable Machine Learning in depth. 
 - 👯 I’m looking to collaborate on open-source projects 
