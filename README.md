@@ -1,6 +1,5 @@
 ### My Name is Aniket Wattamwar
 #### Software Developer and Machine Learning Enthusiast
-![github](hackershrine_banner.jpg)
 
 I am an SDE II at Lumen Technologies based in Denver. I completed my masters from California State University, Fullerton in 2024. I worked as a software engineer working at HSBC for 2 years. I have a keen interest in machine learning and data science. I have worked on full-stack development with machine learning using Flask, Django, and AWS. I also do Logo Designing and Motion Graphics. I love creating content both technical and non-technical, so I have a Technical YouTube channel - [Aniket Wattamwar](https://www.youtube.com/@aniketwattamwar).
 
