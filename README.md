@@ -18,5 +18,3 @@ I am an SDE II at Lumen Technologies based in Denver. I completed my masters fro
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=aniketwattamwar&&show_icons=true&title_color=ffffff&icon_color=f1c40f&text_color=ffffff&bg_color=151515)
 
-
-![Profile views](https://gpvc.arturio.dev/aniketwattamwar)  
