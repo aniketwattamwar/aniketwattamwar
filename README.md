@@ -1,11 +1,12 @@
 ### My Name is Aniket Wattamwar
 #### Software Developer and Machine Learning Enthusiast
 
-I am an AI SDE II at Lumen Technologies based in Denver. I completed my masters from California State University, Fullerton in 2024. I have over 4 years of experience in software development and AI. I have a keen interest in machine learning and data science. I have worked on full-stack development with machine learning using Flask, Django, and AWS. I also do Logo Designing and Motion Graphics. I love creating content both technical and non-technical, so I have a Technical YouTube channel - [Aniket Wattamwar](https://www.youtube.com/@aniketwattamwar).
+I am an AI SDE II at Lumen Technologies based in Denver. I have over 4 years of experience in software development and AI. I have a keen interest in GenAI and Agentic AI. I enjoy buildling, architecting and scaling Agentic AI solutions. My expertise lies in full stack devlopment with GenAI applications using Python, React, ADK, CrewAI, MCP, GCP/AWS.
+I have a Technical YouTube channel - [Aniket Wattamwar](https://www.youtube.com/@aniketwattamwar).
 
-- 🌱 I’m currently learning and exploring the field of Interpretable Machine Learning and Cloud Technology. 
+- 🌱 I’m currently contributing to research in the world of LLMs 
 - 👯 I’m looking to collaborate on open-source projects 
-- 💬 Ask me about things related to Machine Learning, AWS, and also stuff related to logo design and motion graphics. 
+- 💬 I enjoy building new and cool side projects
 - 📫 How to reach me: Yon can ping me on any of the social media platforms 
 
 
